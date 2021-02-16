@@ -1,7 +1,5 @@
 package decorator;
-/* Декораторы работают по тому же принципу что и рекурсии
-* Декораторы оборачивают основные объекты*/
-
+/* Декораторы работают по тому же принципу что и рекурсии*/
 public class Main {
     public static void main(String[] args) {
         Beverage espresso = new Espresso();
